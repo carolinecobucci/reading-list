@@ -1026,7 +1026,7 @@ fieldset[disabled] .button.is-dark.is-inverted.is-outlined {
 }
 .button.is-primary.is-hovered,
 .button.is-primary:hover {
-  background-color: #00c4a7;
+  background-color: #563e55;
   border-color: transparent;
   color: #fff;
 }
@@ -1041,14 +1041,14 @@ fieldset[disabled] .button.is-dark.is-inverted.is-outlined {
 }
 .button.is-primary.is-active,
 .button.is-primary:active {
-  background-color: #00b89c;
+  background-color: #563e55;
   border-color: transparent;
   color: #fff;
 }
 .button.is-primary[disabled],
 fieldset[disabled] .button.is-primary {
-  background-color: #00d1b2;
-  border-color: #00d1b2;
+  background-color: #563e55;
+  border-color: #563e55;
   box-shadow: none;
 }
 .button.is-primary.is-inverted {
@@ -1064,7 +1064,7 @@ fieldset[disabled] .button.is-primary.is-inverted {
   background-color: #fff;
   border-color: transparent;
   box-shadow: none;
-  color: #00d1b2;
+  color: #563e55;
 }
 .button.is-primary.is-loading:after {
   border-color: transparent transparent #fff #fff !important;
@@ -1083,7 +1083,7 @@ fieldset[disabled] .button.is-primary.is-inverted {
   color: #fff;
 }
 .button.is-primary.is-outlined.is-loading:after {
-  border-color: transparent transparent #00d1b2 #00d1b2 !important;
+  border-color: transparent transparent #563e55 #563e55 !important;
 }
 .button.is-primary.is-outlined.is-loading.is-focused:after,
 .button.is-primary.is-outlined.is-loading.is-hovered:after,

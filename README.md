@@ -1,8 +1,46 @@
-# React + Vite
+# Reading List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project allows the user to create a list of books, delete and edit book titles through a form. Images are generated randomly using an external source.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Watch the video](/src/assets/preview-reading-list.png)](/src/assets/preview-demo-reading-list.mp4)
+
+## Tech Stack
+
+**Client:** React, Vite, Bulma
+
+**Server:** JSON Server
+
+## Lessons Learned
+
+In this project, I had the opportunity to apply fundamental React concepts such as useState, useEffect, and useContext. Additionally, I explored creating a local server using json server, as well as making API requests using axios, a Javascript library.
+
+## Run Locally
+
+You can test this project by following these steps:
+
+Clone the project
+
+```bash
+  git clone https://github.com/carolinecobucci/reading-list.git
+```
+
+Go to the project directory
+
+```bash
+  cd reading-list
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+  npm run server
+```
