@@ -1020,7 +1020,7 @@ fieldset[disabled] .button.is-dark.is-inverted.is-outlined {
   color: #fff;
 }
 .button.is-primary {
-  background-color: #00d1b2;
+  background-color: #563e55;
   border-color: transparent;
   color: #fff;
 }
@@ -10602,13 +10602,14 @@ a.has-text-danger-dark:hover {
 }
 .app h1 {
   font-size: 48px;
-  font-weight: 800;
-  margin: auto;
+  font-weight: 700;
   max-width: 1024px;
-  padding: 20px;
+  padding-left: 36px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .book-create {
-  background-color: #00d1b2;
+  background-color: #563e55;
   bottom: 0;
   padding: 20px 40px 30px;
   position: fixed;

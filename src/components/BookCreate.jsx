@@ -17,11 +17,10 @@ const BookCreate = () => {
 
   return (
     <div className="book-create">
-      <h3>Add a Book</h3>
+      <h3>Want to read!</h3>
       <form onSubmit={handleSubmit}>
-        <label>Title</label>
-        <input className="input" value={title} onChange={handleChange} />
-        <button className="button">Create!</button>
+        <input className="input" value={title} onChange={handleChange} placeholder="Title" />
+        <button className="button">Add to reading list</button>
       </form>
     </div>
   );
