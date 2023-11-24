@@ -4,7 +4,7 @@ This project allows the user to create a list of books, delete and edit book tit
 
 ## Demo
 
-[![Watch the video](/src/assets/preview-reading-list.png)](/src/assets/preview-demo-reading-list.mp4)
+![Alt Text](/src/assets/preview-reading-list-gif.gif)
 
 ## Tech Stack
 
